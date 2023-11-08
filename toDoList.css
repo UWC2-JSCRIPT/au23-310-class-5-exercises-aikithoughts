@@ -38,8 +38,11 @@ li.done span {
 
 .delete {
   background-color: darkred;
+  margin-left: 5px;
+  cursor: pointer;
 }
 
 .add-item {
   background-color: darkturquoise;
+  cursor: pointer;
 }
